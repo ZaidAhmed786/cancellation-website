@@ -64,10 +64,10 @@
     font-size: 13px;
     
 }
-.logo{
+.logo1{
     width: 50%;
 }
-.logo img{
+.logo1 img{
     width: 30%;
 }
 
@@ -314,10 +314,10 @@
         font-size: 13px;
         
     }
-    .logo{
+    .logo1{
         width: 50%;
     }
-    .logo img{
+    .logo1 img{
         width: 50%;
     }
     .row-2{
@@ -411,10 +411,10 @@
         font-size: 13px;
         
     }
-    .logo{
+    .logo1{
         width: 50%;
     }
-    .logo img{
+    .logo1 img{
         width: 80%;
     }
 }
